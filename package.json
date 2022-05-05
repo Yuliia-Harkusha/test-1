@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://irynakarmazinova.github.io/goit-js-hw-09-repeta-parcel",
+  "homepage": "https://Yuliia-Hsrkusha.github.io/test-1",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-09-repeta-parcel/",
+    "build": "parcel build src/*.html --public-url /test-1/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
